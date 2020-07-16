@@ -12,3 +12,28 @@ body {
 .name {
   font-family: monospace;
 }
+
+.podcast {
+  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255);
+  color : red;
+}
+
+ul.cir {
+  list-style-type: circle;
+}
+
+.nav {
+  background: rgba(255, 255, 255, 0.5);
+  background: rgb(255, 255, 255);
+  border-style: dotted;
+}
+
+a:hover {
+  color: green;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
